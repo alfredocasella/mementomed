@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MementoMed</string>
+    <string name="placeholder_title">MementoMed</string>
+    <string name="placeholder_subtitle">Gestisci i tuoi farmaci di casa — offline</string>
+</resources>
+
