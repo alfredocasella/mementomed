@@ -1,0 +1,200 @@
+# Built application files
+*.apk
+*.aar
+*.ap_
+*.aab
+
+# Files for the ART/Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+out/
+release/
+
+# Gradle files
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Proguard folder
+proguard/
+
+# Log Files
+*.log
+
+# Android Studio Navigation editor temp files
+.navigation/
+
+# Android Studio captures folder
+captures/
+
+# IntelliJ / Android Studio
+*.iml
+.idea/
+.idea_modules/
+*.ipr
+*.iws
+*.swp
+*.swo
+*~
+
+# Keystore files
+*.jks
+*.keystore
+*.p12
+*.pfx
+signing.properties
+keystore.properties
+
+# External native build folder
+.externalNativeBuild
+.cxx/
+obj/
+
+# Google Services (e.g. APIs or Firebase)
+google-services.json
+google-services.json.bak
+**/google-services.json
+**/google-services.json.bak
+
+# Room schema outputs
+**/schemas/
+**/room-*-schema.json
+**/*-schema.json
+
+# KAPT/KSP generated sources
+**/build/generated/
+**/build/kapt/
+**/build/ksp/
+**/build/kaptCaches/
+**/build/kspCaches/
+**/build/generated/source/kapt/
+**/build/generated/source/ksp/
+**/build/generated/source/apt/
+
+# Hilt generated files
+**/build/generated/hilt/
+**/build/generated/ap_generated_sources/
+**/build/generated/hilt/component_sources/
+**/build/generated/hilt/component_trees/
+
+# Compose compiler generated
+**/build/generated/compose/
+**/build/compose_metrics/
+**/build/compose_compiler/
+
+# Paparazzi snapshots (uncomment to ignore test snapshots)
+# **/src/test/snapshots/
+# **/src/test/resources/__snapshots__/
+
+# Crashlytics
+crashlytics-build.properties
+crashlytics.properties
+crashlytics-wrapper.properties
+
+# Kotlin
+*.kotlin_module
+*.kt.swp
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.orig
+*.backup
+
+# Build intermediates
+**/intermediates/
+**/tmp/
+**/incremental/
+**/merged_manifests/
+**/merged_res/
+**/merged_assets/
+**/packaged_res/
+**/packaged_manifests/
+**/dex/
+**/classes/
+**/javac/
+**/kotlin/
+**/kotlin-classes/
+**/generated/
+**/outputs/
+**/reports/
+**/logs/
+
+# AndroidX Test
+**/androidx.test.services/
+
+# Robolectric
+**/robolectric/
+
+# Unit test reports
+**/test-results/
+**/test-results.xml
+
+# Coverage reports
+**/coverage/
+*.ec
+*.exec
+
+# Android Profiling
+*.hprof
+
+# OS-specific files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+.AppleDouble
+.LSOverride
+Icon
+.DocumentRevisions-V100
+.fseventsd
+.TemporaryItems
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Miscellaneous IDE files
+*.classpath
+*.project
+*.settings/
+.metadata/
+.recommenders/
+vcs.xml
+
+# Freeline
+freeline.py
+freeline/
+freeline_project_description.json
+
+# fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+fastlane/readme.md
+
+# lint
+lint/intermediates/
+lint/generated/
+lint/outputs/
+lint/tmp/
+*.lint

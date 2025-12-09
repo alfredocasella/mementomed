@@ -7,14 +7,13 @@ pluginManagement {
 }
 
 dependencyResolutionManagement {
-    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
     repositories {
         google()
         mavenCentral()
     }
     versionCatalogs {
         create("libs") {
-            from(files("gradle/libs.versions.toml"))
+            from(files("gradle/versions.toml"))
         }
     }
 }
@@ -27,6 +26,7 @@ include(
     ":core:ui",
     ":data:db",
     ":data:ads",
+    ":data:workers",
     ":domain:billing",
     ":features:plan",
     ":features:gate"

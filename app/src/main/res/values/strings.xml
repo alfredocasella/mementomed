@@ -2,5 +2,11 @@
     <string name="app_name">MementoMed</string>
     <string name="placeholder_title">MementoMed</string>
     <string name="placeholder_subtitle">Manage your home medicines — offline-first</string>
+    
+    <!-- Notification Channels -->
+    <string name="channel_trial_updates_name">Trial Updates</string>
+    <string name="channel_trial_updates_description">Notifications about trial period status and expiration</string>
+    <string name="channel_unlock_updates_name">Unlock Updates</string>
+    <string name="channel_unlock_updates_description">Notifications about feature unlocks and entitlements</string>
 </resources>
 
