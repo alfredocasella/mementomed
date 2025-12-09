@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Name -->
+    <string name="app_name">MementoMed</string>
+
+    <!-- Billing & Subscription -->
+    <string name="billing_subscription_price">€1.99/month</string>
+    <string name="billing_subscription_monthly">Monthly Subscription</string>
+    <string name="billing_subscribe_button">Subscribe</string>
+    <string name="billing_subscription_active">Subscription Active</string>
+    <string name="billing_subscription_expired">Subscription Expired</string>
+    <string name="billing_subscription_restore">Restore Purchases</string>
+
+    <!-- Trial -->
+    <string name="trial_banner_text">%d days of trial remaining</string>
+    <string name="trial_active">Trial Active</string>
+    <string name="trial_expired">Trial Expired</string>
+    <string name="trial_start_button">Start Trial</string>
+
+    <!-- Premium Unlock -->
+    <string name="unlock_premium_title">Unlock Premium</string>
+    <string name="unlock_premium_description">Get unlimited access to all features with a premium subscription.</string>
+    <string name="unlock_premium_benefits">• Unlimited medicine tracking\n• Offline access\n• No ads\n• Priority support</string>
+
+    <!-- Call-to-Action Buttons -->
+    <string name="cta_continue">Continue</string>
+    <string name="cta_retry">Retry</string>
+    <string name="cta_cancel">Cancel</string>
+    <string name="cta_confirm">Confirm</string>
+    <string name="cta_dismiss">Dismiss</string>
+
+    <!-- Ads -->
+    <string name="ads_watch_to_unlock">Watch Ad to Unlock</string>
+    <string name="ads_not_available">Ad Not Available</string>
+    <string name="ads_loading">Loading ad…</string>
+    <string name="ads_reward_earned">Reward earned! Feature unlocked.</string>
+
+    <!-- Common UI -->
+    <string name="error_generic">An error occurred. Please try again.</string>
+    <string name="error_network">Network error. Please check your connection.</string>
+    <string name="loading">Loading…</string>
+    <string name="empty_state_title">No Items</string>
+    <string name="empty_state_message">You haven\'t added any items yet.</string>
+</resources>
+

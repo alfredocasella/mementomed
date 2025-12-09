@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Name -->
+    <string name="app_name">MementoMed</string>
+
+    <!-- Billing & Subscription -->
+    <string name="billing_subscription_price">€1,99/mese</string>
+    <string name="billing_subscription_monthly">Abbonamento Mensile</string>
+    <string name="billing_subscribe_button">Abbonati</string>
+    <string name="billing_subscription_active">Abbonamento Attivo</string>
+    <string name="billing_subscription_expired">Abbonamento Scaduto</string>
+    <string name="billing_subscription_restore">Ripristina Acquisti</string>
+
+    <!-- Trial -->
+    <string name="trial_banner_text">%d giorni di prova rimanenti</string>
+    <string name="trial_active">Prova Attiva</string>
+    <string name="trial_expired">Prova Scaduta</string>
+    <string name="trial_start_button">Inizia Prova</string>
+
+    <!-- Premium Unlock -->
+    <string name="unlock_premium_title">Sblocca Premium</string>
+    <string name="unlock_premium_description">Ottieni accesso illimitato a tutte le funzionalità con un abbonamento premium.</string>
+    <string name="unlock_premium_benefits">• Tracciamento illimitato dei farmaci\n• Accesso offline\n• Nessuna pubblicità\n• Supporto prioritario</string>
+
+    <!-- Call-to-Action Buttons -->
+    <string name="cta_continue">Continua</string>
+    <string name="cta_retry">Riprova</string>
+    <string name="cta_cancel">Annulla</string>
+    <string name="cta_confirm">Conferma</string>
+    <string name="cta_dismiss">Chiudi</string>
+
+    <!-- Ads -->
+    <string name="ads_watch_to_unlock">Guarda un Annuncio per Sbloccare</string>
+    <string name="ads_not_available">Annuncio Non Disponibile</string>
+    <string name="ads_loading">Caricamento annuncio…</string>
+    <string name="ads_reward_earned">Ricompensa ottenuta! Funzionalità sbloccata.</string>
+
+    <!-- Common UI -->
+    <string name="error_generic">Si è verificato un errore. Riprova.</string>
+    <string name="error_network">Errore di rete. Controlla la connessione.</string>
+    <string name="loading">Caricamento…</string>
+    <string name="empty_state_title">Nessun Elemento</string>
+    <string name="empty_state_message">Non hai ancora aggiunto elementi.</string>
+</resources>
+

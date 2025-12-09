@@ -15,6 +15,14 @@ android {
         sourceCompatibility = JavaVersion.VERSION_17
         targetCompatibility = JavaVersion.VERSION_17
     }
+    
+    lint {
+        checkReleaseBuilds = true
+        warningsAsErrors = false
+        abortOnError = false
+        disable += listOf("MissingTranslation")
+        enable += listOf("HardcodedText")
+    }
 }
 
 dependencies {
